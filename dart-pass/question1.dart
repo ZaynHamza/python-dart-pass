@@ -1,5 +1,3 @@
-
-
 void main() {
 
   const hour = DateTime.now().hour;  
