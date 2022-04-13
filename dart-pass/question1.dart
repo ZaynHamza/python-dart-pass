@@ -7,11 +7,13 @@ void main() {
 
 }
 
-//const variables must be created with a constant value and
-//the constructor (DateTime) isn’t a const constructor
+
+// DateTime is not a constant value, so it must not be saved in a const variable.
 
 
 //void main() {
 
 // int hour = DateTime.now().hour;  
-//  print(hour);}
+// print(hour);
+
+//}
